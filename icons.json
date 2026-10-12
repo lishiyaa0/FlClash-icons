@@ -1,7 +1,19 @@
 {
   "name": "FlClash 图标库",
-  "description": "个人 FlClash / Mihomo 策略组图标合集，共 29 个图标；来源 Qure 与 bgpeer，详见仓库 README。",
+  "description": "个人 FlClash / Mihomo 策略组图标合集，共 349 个图标；主要来源 Koolson/Qure 的 IconSet/Color，另有 bgpeer 的 Claude、抖音图标。",
+  "base": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/",
+  "count": 349,
   "icons": [
+    {
+      "name": "5iTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/5iTV.png",
+      "groups": []
+    },
+    {
+      "name": "AGA",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AGA.png",
+      "groups": []
+    },
     {
       "name": "AI",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AI.png",
@@ -10,11 +22,176 @@
       ]
     },
     {
+      "name": "AIA",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AIA.png",
+      "groups": []
+    },
+    {
+      "name": "AR",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AR.png",
+      "groups": []
+    },
+    {
+      "name": "AU",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AU.png",
+      "groups": []
+    },
+    {
+      "name": "AbemaTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AbemaTV.png",
+      "groups": []
+    },
+    {
+      "name": "AdBlack",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AdBlack.png",
+      "groups": []
+    },
+    {
+      "name": "AdWhite",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AdWhite.png",
+      "groups": []
+    },
+    {
+      "name": "Advertising",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Advertising.png",
+      "groups": []
+    },
+    {
+      "name": "AfreecaTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AfreecaTV.png",
+      "groups": []
+    },
+    {
+      "name": "Africa_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Africa_Map.png",
+      "groups": []
+    },
+    {
+      "name": "Airport",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Airport.png",
+      "groups": []
+    },
+    {
+      "name": "Alibaba",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Alibaba.png",
+      "groups": []
+    },
+    {
+      "name": "All4",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/All4.png",
+      "groups": []
+    },
+    {
+      "name": "Amazon",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Amazon.png",
+      "groups": []
+    },
+    {
+      "name": "Amazon_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Amazon_1.png",
+      "groups": []
+    },
+    {
+      "name": "America_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/America_Map.png",
+      "groups": []
+    },
+    {
+      "name": "AmyTelecom",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AmyTelecom.png",
+      "groups": []
+    },
+    {
+      "name": "AmyTelecom_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AmyTelecom_1.png",
+      "groups": []
+    },
+    {
+      "name": "Apeach",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apeach.png",
+      "groups": []
+    },
+    {
+      "name": "App_Store",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/App_Store.png",
+      "groups": []
+    },
+    {
       "name": "Apple",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple.png",
       "groups": [
         "苹果服务"
       ]
+    },
+    {
+      "name": "Apple_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_1.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_2.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_Fitness+",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_Fitness+.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_Fitness+_Letter",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_Fitness+_Letter.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_Fitness",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_Fitness.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_Music",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_Music.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_News",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_News.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_TV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_TV.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_TV_Plus",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_TV_Plus.png",
+      "groups": []
+    },
+    {
+      "name": "Apple_Update",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple_Update.png",
+      "groups": []
+    },
+    {
+      "name": "Area",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Area.png",
+      "groups": []
+    },
+    {
+      "name": "Argentina",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Argentina.png",
+      "groups": []
+    },
+    {
+      "name": "Asia_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Asia_Map.png",
+      "groups": []
+    },
+    {
+      "name": "Australia",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Australia.png",
+      "groups": []
     },
     {
       "name": "Auto",
@@ -31,11 +208,246 @@
       ]
     },
     {
+      "name": "Available_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Available_1.png",
+      "groups": []
+    },
+    {
+      "name": "Azure",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Azure.png",
+      "groups": []
+    },
+    {
+      "name": "BBC_iPlayer",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/BBC_iPlayer.png",
+      "groups": []
+    },
+    {
+      "name": "BBC_iPlayer_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/BBC_iPlayer_1.png",
+      "groups": []
+    },
+    {
+      "name": "BBC_iPlayer_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/BBC_iPlayer_2.png",
+      "groups": []
+    },
+    {
+      "name": "BGP",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/BGP.png",
+      "groups": []
+    },
+    {
+      "name": "BR",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/BR.png",
+      "groups": []
+    },
+    {
+      "name": "Back",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Back.png",
+      "groups": []
+    },
+    {
+      "name": "Bahamut",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Bahamut.png",
+      "groups": []
+    },
+    {
+      "name": "Bamboo",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Bamboo.png",
+      "groups": []
+    },
+    {
+      "name": "Blackhole",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Blackhole.png",
+      "groups": []
+    },
+    {
+      "name": "Blinkload",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Blinkload.png",
+      "groups": []
+    },
+    {
+      "name": "Blinkload_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Blinkload_1.png",
+      "groups": []
+    },
+    {
+      "name": "Bookpedia",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Bookpedia.png",
+      "groups": []
+    },
+    {
+      "name": "BosLife",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/BosLife.png",
+      "groups": []
+    },
+    {
+      "name": "BosLife_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/BosLife_1.png",
+      "groups": []
+    },
+    {
+      "name": "Bot",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Bot.png",
+      "groups": []
+    },
+    {
+      "name": "Brazil",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Brazil.png",
+      "groups": []
+    },
+    {
+      "name": "Brown",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Brown.png",
+      "groups": []
+    },
+    {
+      "name": "Bypass",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Bypass.png",
+      "groups": []
+    },
+    {
+      "name": "CA",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/CA.png",
+      "groups": []
+    },
+    {
+      "name": "CC",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/CC.png",
+      "groups": []
+    },
+    {
+      "name": "CN",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/CN.png",
+      "groups": []
+    },
+    {
+      "name": "Canada",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Canada.png",
+      "groups": []
+    },
+    {
+      "name": "Cat",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Cat.png",
+      "groups": []
+    },
+    {
+      "name": "Catnet",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Catnet.png",
+      "groups": []
+    },
+    {
+      "name": "Cellular",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Cellular.png",
+      "groups": []
+    },
+    {
       "name": "ChatGPT",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ChatGPT.png",
       "groups": [
         "ChatGPT"
       ]
+    },
+    {
+      "name": "China",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/China.png",
+      "groups": []
+    },
+    {
+      "name": "China_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/China_Map.png",
+      "groups": []
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Cloudflare.png",
+      "groups": []
+    },
+    {
+      "name": "Clubhouse",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Clubhouse.png",
+      "groups": []
+    },
+    {
+      "name": "Clubhouse_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Clubhouse_1.png",
+      "groups": []
+    },
+    {
+      "name": "Clubhouse_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Clubhouse_2.png",
+      "groups": []
+    },
+    {
+      "name": "Copilot",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Copilot.png",
+      "groups": []
+    },
+    {
+      "name": "CreamData",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/CreamData.png",
+      "groups": []
+    },
+    {
+      "name": "Cryptocurrency",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Cryptocurrency.png",
+      "groups": []
+    },
+    {
+      "name": "Cryptocurrency_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Cryptocurrency_1.png",
+      "groups": []
+    },
+    {
+      "name": "Cryptocurrency_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Cryptocurrency_2.png",
+      "groups": []
+    },
+    {
+      "name": "Cryptocurrency_3",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Cryptocurrency_3.png",
+      "groups": []
+    },
+    {
+      "name": "Cydia",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Cydia.png",
+      "groups": []
+    },
+    {
+      "name": "DAZN",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/DAZN.png",
+      "groups": []
+    },
+    {
+      "name": "DAZN_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/DAZN_1.png",
+      "groups": []
+    },
+    {
+      "name": "DAZN_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/DAZN_2.png",
+      "groups": []
+    },
+    {
+      "name": "DE",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/DE.png",
+      "groups": []
+    },
+    {
+      "name": "Daily",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Daily.png",
+      "groups": []
+    },
+    {
+      "name": "Dinosaur",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Dinosaur.png",
+      "groups": []
+    },
+    {
+      "name": "Direct",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Direct.png",
+      "groups": []
     },
     {
       "name": "Discord",
@@ -45,6 +457,76 @@
       ]
     },
     {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Disney+.png",
+      "groups": []
+    },
+    {
+      "name": "Disney+_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Disney+_1.png",
+      "groups": []
+    },
+    {
+      "name": "Disney+_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Disney+_2.png",
+      "groups": []
+    },
+    {
+      "name": "Disney",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Disney.png",
+      "groups": []
+    },
+    {
+      "name": "Domestic",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Domestic.png",
+      "groups": []
+    },
+    {
+      "name": "DomesticMedia",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/DomesticMedia.png",
+      "groups": []
+    },
+    {
+      "name": "Download",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Download.png",
+      "groups": []
+    },
+    {
+      "name": "Drill",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Drill.png",
+      "groups": []
+    },
+    {
+      "name": "EG",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/EG.png",
+      "groups": []
+    },
+    {
+      "name": "ESPN+",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ESPN+.png",
+      "groups": []
+    },
+    {
+      "name": "ESPN+_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ESPN+_1.png",
+      "groups": []
+    },
+    {
+      "name": "ESPN+_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ESPN+_2.png",
+      "groups": []
+    },
+    {
+      "name": "EU",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/EU.png",
+      "groups": []
+    },
+    {
+      "name": "Egypt",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Egypt.png",
+      "groups": []
+    },
+    {
       "name": "Emby",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Emby.png",
       "groups": [
@@ -52,11 +534,96 @@
       ]
     },
     {
+      "name": "Epic_Games",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Epic_Games.png",
+      "groups": []
+    },
+    {
+      "name": "Europe_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Europe_Map.png",
+      "groups": []
+    },
+    {
+      "name": "European_Union",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/European_Union.png",
+      "groups": []
+    },
+    {
+      "name": "FI",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/FI.png",
+      "groups": []
+    },
+    {
+      "name": "FOX",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/FOX.png",
+      "groups": []
+    },
+    {
+      "name": "FR",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/FR.png",
+      "groups": []
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Facebook.png",
+      "groups": []
+    },
+    {
+      "name": "Filter",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Filter.png",
+      "groups": []
+    },
+    {
       "name": "Final",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Final.png",
       "groups": [
         "兜底"
       ]
+    },
+    {
+      "name": "Final_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Final_1.png",
+      "groups": []
+    },
+    {
+      "name": "Find_My",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Find_My.png",
+      "groups": []
+    },
+    {
+      "name": "Finland",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Finland.png",
+      "groups": []
+    },
+    {
+      "name": "Flamingo",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Flamingo.png",
+      "groups": []
+    },
+    {
+      "name": "ForeignMedia",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ForeignMedia.png",
+      "groups": []
+    },
+    {
+      "name": "France",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/France.png",
+      "groups": []
+    },
+    {
+      "name": "Fries",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Fries.png",
+      "groups": []
+    },
+    {
+      "name": "Frog",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Frog.png",
+      "groups": []
+    },
+    {
+      "name": "GIA",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/GIA.png",
+      "groups": []
     },
     {
       "name": "Game",
@@ -81,11 +648,101 @@
       ]
     },
     {
+      "name": "GitHub_Letter",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/GitHub_Letter.png",
+      "groups": []
+    },
+    {
+      "name": "Global",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Global.png",
+      "groups": []
+    },
+    {
+      "name": "Gmail",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Gmail.png",
+      "groups": []
+    },
+    {
       "name": "Google",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Google.png",
       "groups": [
         "Google"
       ]
+    },
+    {
+      "name": "Google_Drive",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Google_Drive.png",
+      "groups": []
+    },
+    {
+      "name": "Google_Opinion_Rewards",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Google_Opinion_Rewards.png",
+      "groups": []
+    },
+    {
+      "name": "Google_Search",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Google_Search.png",
+      "groups": []
+    },
+    {
+      "name": "HBO",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HBO.png",
+      "groups": []
+    },
+    {
+      "name": "HBO_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HBO_1.png",
+      "groups": []
+    },
+    {
+      "name": "HBO_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HBO_2.png",
+      "groups": []
+    },
+    {
+      "name": "HBO_GO",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HBO_GO.png",
+      "groups": []
+    },
+    {
+      "name": "HBO_GO_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HBO_GO_1.png",
+      "groups": []
+    },
+    {
+      "name": "HBO_GO_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HBO_GO_2.png",
+      "groups": []
+    },
+    {
+      "name": "HBO_Max",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HBO_Max.png",
+      "groups": []
+    },
+    {
+      "name": "HC",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HC.png",
+      "groups": []
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HK.png",
+      "groups": []
+    },
+    {
+      "name": "HKMTMedia",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/HKMTMedia.png",
+      "groups": []
+    },
+    {
+      "name": "Heart",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Heart.png",
+      "groups": []
+    },
+    {
+      "name": "Hijacking",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Hijacking.png",
+      "groups": []
     },
     {
       "name": "Hong_Kong",
@@ -96,12 +753,107 @@
       ]
     },
     {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Hulu.png",
+      "groups": []
+    },
+    {
+      "name": "Hulu_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Hulu_1.png",
+      "groups": []
+    },
+    {
+      "name": "IEPL",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/IEPL.png",
+      "groups": []
+    },
+    {
+      "name": "IN",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/IN.png",
+      "groups": []
+    },
+    {
+      "name": "IPLC",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/IPLC.png",
+      "groups": []
+    },
+    {
+      "name": "ITV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ITV.png",
+      "groups": []
+    },
+    {
+      "name": "ITV_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ITV_1.png",
+      "groups": []
+    },
+    {
+      "name": "ITV_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ITV_2.png",
+      "groups": []
+    },
+    {
+      "name": "India",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/India.png",
+      "groups": []
+    },
+    {
+      "name": "Infuse",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Infuse.png",
+      "groups": []
+    },
+    {
+      "name": "Infuse_7",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Infuse_7.png",
+      "groups": []
+    },
+    {
+      "name": "Ingress",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Ingress.png",
+      "groups": []
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Instagram.png",
+      "groups": []
+    },
+    {
+      "name": "JOOX",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/JOOX.png",
+      "groups": []
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/JP.png",
+      "groups": []
+    },
+    {
       "name": "Japan",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Japan.png",
       "groups": [
         "日本",
         "日本自动"
       ]
+    },
+    {
+      "name": "KKBOX",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/KKBOX.png",
+      "groups": []
+    },
+    {
+      "name": "KKTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/KKTV.png",
+      "groups": []
+    },
+    {
+      "name": "KR",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/KR.png",
+      "groups": []
+    },
+    {
+      "name": "Kakao",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Kakao.png",
+      "groups": []
     },
     {
       "name": "Korea",
@@ -112,6 +864,116 @@
       ]
     },
     {
+      "name": "LA",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/LA.png",
+      "groups": []
+    },
+    {
+      "name": "LA_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/LA_Map.png",
+      "groups": []
+    },
+    {
+      "name": "LOL",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/LOL.png",
+      "groups": []
+    },
+    {
+      "name": "Lab",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Lab.png",
+      "groups": []
+    },
+    {
+      "name": "Lambda",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Lambda.png",
+      "groups": []
+    },
+    {
+      "name": "League_of_Legends",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/League_of_Legends.png",
+      "groups": []
+    },
+    {
+      "name": "LiTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/LiTV.png",
+      "groups": []
+    },
+    {
+      "name": "Line",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Line.png",
+      "groups": []
+    },
+    {
+      "name": "LineTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/LineTV.png",
+      "groups": []
+    },
+    {
+      "name": "LinkCube",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/LinkCube.png",
+      "groups": []
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Linkedin.png",
+      "groups": []
+    },
+    {
+      "name": "Lock",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Lock.png",
+      "groups": []
+    },
+    {
+      "name": "Loop",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Loop.png",
+      "groups": []
+    },
+    {
+      "name": "Luffy",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Luffy.png",
+      "groups": []
+    },
+    {
+      "name": "MO",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/MO.png",
+      "groups": []
+    },
+    {
+      "name": "MY",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/MY.png",
+      "groups": []
+    },
+    {
+      "name": "Macao",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Macao.png",
+      "groups": []
+    },
+    {
+      "name": "Magic",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Magic.png",
+      "groups": []
+    },
+    {
+      "name": "Mail",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Mail.png",
+      "groups": []
+    },
+    {
+      "name": "Malaysia",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Malaysia.png",
+      "groups": []
+    },
+    {
+      "name": "Media",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Media.png",
+      "groups": []
+    },
+    {
+      "name": "Mickey",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Mickey.png",
+      "groups": []
+    },
+    {
       "name": "Microsoft",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Microsoft.png",
       "groups": [
@@ -119,11 +981,321 @@
       ]
     },
     {
+      "name": "Mouse",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Mouse.png",
+      "groups": []
+    },
+    {
+      "name": "Music_Enhance",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Music_Enhance.png",
+      "groups": []
+    },
+    {
+      "name": "My5",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/My5.png",
+      "groups": []
+    },
+    {
+      "name": "NBA",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/NBA.png",
+      "groups": []
+    },
+    {
+      "name": "NBC",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/NBC.png",
+      "groups": []
+    },
+    {
+      "name": "Naiko",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Naiko.png",
+      "groups": []
+    },
+    {
+      "name": "Netease_Music",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Netease_Music.png",
+      "groups": []
+    },
+    {
+      "name": "Netease_Music_Unlock",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Netease_Music_Unlock.png",
+      "groups": []
+    },
+    {
       "name": "Netflix",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Netflix.png",
       "groups": [
         "NETFLIX"
       ]
+    },
+    {
+      "name": "Netflix_Letter",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Netflix_Letter.png",
+      "groups": []
+    },
+    {
+      "name": "Nfcloud",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Nfcloud.png",
+      "groups": []
+    },
+    {
+      "name": "Ninja",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Ninja.png",
+      "groups": []
+    },
+    {
+      "name": "Nintendo",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Nintendo.png",
+      "groups": []
+    },
+    {
+      "name": "Notion",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Notion.png",
+      "groups": []
+    },
+    {
+      "name": "Null_Nation",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Null_Nation.png",
+      "groups": []
+    },
+    {
+      "name": "Oceania_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Oceania_Map.png",
+      "groups": []
+    },
+    {
+      "name": "OneDrive",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/OneDrive.png",
+      "groups": []
+    },
+    {
+      "name": "Ox",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Ox.png",
+      "groups": []
+    },
+    {
+      "name": "PBS",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/PBS.png",
+      "groups": []
+    },
+    {
+      "name": "PH",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/PH.png",
+      "groups": []
+    },
+    {
+      "name": "Panda",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Panda.png",
+      "groups": []
+    },
+    {
+      "name": "Pandora",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Pandora.png",
+      "groups": []
+    },
+    {
+      "name": "Paramount",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Paramount.png",
+      "groups": []
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/PayPal.png",
+      "groups": []
+    },
+    {
+      "name": "Peacock",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Peacock.png",
+      "groups": []
+    },
+    {
+      "name": "Peacock_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Peacock_1.png",
+      "groups": []
+    },
+    {
+      "name": "Peacock_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Peacock_2.png",
+      "groups": []
+    },
+    {
+      "name": "Philippines",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Philippines.png",
+      "groups": []
+    },
+    {
+      "name": "Pig",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Pig.png",
+      "groups": []
+    },
+    {
+      "name": "Pirate_Nation",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Pirate_Nation.png",
+      "groups": []
+    },
+    {
+      "name": "PlayStation",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/PlayStation.png",
+      "groups": []
+    },
+    {
+      "name": "PlayStation_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/PlayStation_1.png",
+      "groups": []
+    },
+    {
+      "name": "Pornhub",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Pornhub.png",
+      "groups": []
+    },
+    {
+      "name": "Pornhub_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Pornhub_1.png",
+      "groups": []
+    },
+    {
+      "name": "Pornhub_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Pornhub_2.png",
+      "groups": []
+    },
+    {
+      "name": "PostBox",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/PostBox.png",
+      "groups": []
+    },
+    {
+      "name": "PostBox_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/PostBox_1.png",
+      "groups": []
+    },
+    {
+      "name": "Prime_Video",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Prime_Video.png",
+      "groups": []
+    },
+    {
+      "name": "Prime_Video_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Prime_Video_1.png",
+      "groups": []
+    },
+    {
+      "name": "Prime_Video_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Prime_Video_2.png",
+      "groups": []
+    },
+    {
+      "name": "Proxy",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Proxy.png",
+      "groups": []
+    },
+    {
+      "name": "Puzzle",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Puzzle.png",
+      "groups": []
+    },
+    {
+      "name": "QQ",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/QQ.png",
+      "groups": []
+    },
+    {
+      "name": "Quantumult_X",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Quantumult_X.png",
+      "groups": []
+    },
+    {
+      "name": "Qure",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Qure.png",
+      "groups": []
+    },
+    {
+      "name": "RU",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/RU.png",
+      "groups": []
+    },
+    {
+      "name": "Rainbow",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Rainbow.png",
+      "groups": []
+    },
+    {
+      "name": "Rainbow_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Rainbow_1.png",
+      "groups": []
+    },
+    {
+      "name": "Reject",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Reject.png",
+      "groups": []
+    },
+    {
+      "name": "Renzhe",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Renzhe.png",
+      "groups": []
+    },
+    {
+      "name": "Ring",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Ring.png",
+      "groups": []
+    },
+    {
+      "name": "Rocket",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Rocket.png",
+      "groups": []
+    },
+    {
+      "name": "Round_Robin",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Round_Robin.png",
+      "groups": []
+    },
+    {
+      "name": "Round_Robin_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Round_Robin_1.png",
+      "groups": []
+    },
+    {
+      "name": "Russia",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Russia.png",
+      "groups": []
+    },
+    {
+      "name": "Ryan",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Ryan.png",
+      "groups": []
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/SG.png",
+      "groups": []
+    },
+    {
+      "name": "SSID",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/SSID.png",
+      "groups": []
+    },
+    {
+      "name": "SSID_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/SSID_1.png",
+      "groups": []
+    },
+    {
+      "name": "SSL",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/SSL.png",
+      "groups": []
+    },
+    {
+      "name": "STARZ",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/STARZ.png",
+      "groups": []
+    },
+    {
+      "name": "Scholar",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Scholar.png",
+      "groups": []
+    },
+    {
+      "name": "Server",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Server.png",
+      "groups": []
     },
     {
       "name": "Singapore",
@@ -134,11 +1306,131 @@
       ]
     },
     {
+      "name": "Siri",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Siri.png",
+      "groups": []
+    },
+    {
+      "name": "Sling_TV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Sling_TV.png",
+      "groups": []
+    },
+    {
+      "name": "Spark",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Spark.png",
+      "groups": []
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Speedtest.png",
+      "groups": []
+    },
+    {
       "name": "Spotify",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Spotify.png",
       "groups": [
         "Spotify"
       ]
+    },
+    {
+      "name": "Stack",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Stack.png",
+      "groups": []
+    },
+    {
+      "name": "Star+",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Star+.png",
+      "groups": []
+    },
+    {
+      "name": "Star",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Star.png",
+      "groups": []
+    },
+    {
+      "name": "Star_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Star_1.png",
+      "groups": []
+    },
+    {
+      "name": "Star_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Star_2.png",
+      "groups": []
+    },
+    {
+      "name": "Static",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Static.png",
+      "groups": []
+    },
+    {
+      "name": "Static_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Static_1.png",
+      "groups": []
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Steam.png",
+      "groups": []
+    },
+    {
+      "name": "Streaming!CN",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Streaming!CN.png",
+      "groups": []
+    },
+    {
+      "name": "Streaming",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Streaming.png",
+      "groups": []
+    },
+    {
+      "name": "StreamingCN",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/StreamingCN.png",
+      "groups": []
+    },
+    {
+      "name": "StreamingSE",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/StreamingSE.png",
+      "groups": []
+    },
+    {
+      "name": "TAG",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TAG.png",
+      "groups": []
+    },
+    {
+      "name": "TH",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TH.png",
+      "groups": []
+    },
+    {
+      "name": "TIDAL",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TIDAL.png",
+      "groups": []
+    },
+    {
+      "name": "TIDAL_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TIDAL_1.png",
+      "groups": []
+    },
+    {
+      "name": "TIDAL_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TIDAL_2.png",
+      "groups": []
+    },
+    {
+      "name": "TR",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TR.png",
+      "groups": []
+    },
+    {
+      "name": "TVB",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TVB.png",
+      "groups": []
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TW.png",
+      "groups": []
     },
     {
       "name": "Taiwan",
@@ -149,6 +1441,11 @@
       ]
     },
     {
+      "name": "Taobao",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Taobao.png",
+      "groups": []
+    },
+    {
       "name": "Telegram",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Telegram.png",
       "groups": [
@@ -156,11 +1453,101 @@
       ]
     },
     {
+      "name": "Telegram_X",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Telegram_X.png",
+      "groups": []
+    },
+    {
+      "name": "TestFlight",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TestFlight.png",
+      "groups": []
+    },
+    {
+      "name": "TestFlight_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TestFlight_1.png",
+      "groups": []
+    },
+    {
+      "name": "TestFlight_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TestFlight_2.png",
+      "groups": []
+    },
+    {
+      "name": "Thailand",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Thailand.png",
+      "groups": []
+    },
+    {
       "name": "TikTok",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TikTok.png",
       "groups": [
         "TikTok"
       ]
+    },
+    {
+      "name": "TikTok_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TikTok_1.png",
+      "groups": []
+    },
+    {
+      "name": "TikTok_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TikTok_2.png",
+      "groups": []
+    },
+    {
+      "name": "Tubi",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Tubi.png",
+      "groups": []
+    },
+    {
+      "name": "Turkey",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Turkey.png",
+      "groups": []
+    },
+    {
+      "name": "Twitch",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Twitch.png",
+      "groups": []
+    },
+    {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Twitter.png",
+      "groups": []
+    },
+    {
+      "name": "UA",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/UA.png",
+      "groups": []
+    },
+    {
+      "name": "UK",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/UK.png",
+      "groups": []
+    },
+    {
+      "name": "ULB",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ULB.png",
+      "groups": []
+    },
+    {
+      "name": "ULB_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ULB_1.png",
+      "groups": []
+    },
+    {
+      "name": "UN",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/UN.png",
+      "groups": []
+    },
+    {
+      "name": "US",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/US.png",
+      "groups": []
+    },
+    {
+      "name": "Ukraine",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Ukraine.png",
+      "groups": []
     },
     {
       "name": "United_Kingdom",
@@ -171,12 +1558,92 @@
       ]
     },
     {
+      "name": "United_Nations",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/United_Nations.png",
+      "groups": []
+    },
+    {
       "name": "United_States",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/United_States.png",
       "groups": [
         "美国",
         "美国自动"
       ]
+    },
+    {
+      "name": "United_States_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/United_States_Map.png",
+      "groups": []
+    },
+    {
+      "name": "Unlock",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Unlock.png",
+      "groups": []
+    },
+    {
+      "name": "VIP",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/VIP.png",
+      "groups": []
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Vimeo.png",
+      "groups": []
+    },
+    {
+      "name": "Viu",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Viu.png",
+      "groups": []
+    },
+    {
+      "name": "ViuTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ViuTV.png",
+      "groups": []
+    },
+    {
+      "name": "Want_Want",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Want_Want.png",
+      "groups": []
+    },
+    {
+      "name": "Want_Want_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Want_Want_1.png",
+      "groups": []
+    },
+    {
+      "name": "WeChat",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/WeChat.png",
+      "groups": []
+    },
+    {
+      "name": "WeTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/WeTV.png",
+      "groups": []
+    },
+    {
+      "name": "WeTV_Letter",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/WeTV_Letter.png",
+      "groups": []
+    },
+    {
+      "name": "Weibo",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Weibo.png",
+      "groups": []
+    },
+    {
+      "name": "WiFi",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/WiFi.png",
+      "groups": []
+    },
+    {
+      "name": "Windows",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Windows.png",
+      "groups": []
+    },
+    {
+      "name": "Windows_11",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Windows_11.png",
+      "groups": []
     },
     {
       "name": "World_Map",
@@ -194,11 +1661,61 @@
       ]
     },
     {
+      "name": "Xbox",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Xbox.png",
+      "groups": []
+    },
+    {
+      "name": "Yahoo",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Yahoo.png",
+      "groups": []
+    },
+    {
+      "name": "Yahoo_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Yahoo_1.png",
+      "groups": []
+    },
+    {
       "name": "YouTube",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/YouTube.png",
       "groups": [
         "YouTube"
       ]
+    },
+    {
+      "name": "YouTube_Letter",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/YouTube_Letter.png",
+      "groups": []
+    },
+    {
+      "name": "YouTube_Music",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/YouTube_Music.png",
+      "groups": []
+    },
+    {
+      "name": "bilibili",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/bilibili.png",
+      "groups": []
+    },
+    {
+      "name": "bilibili_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/bilibili_1.png",
+      "groups": []
+    },
+    {
+      "name": "bilibili_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/bilibili_2.png",
+      "groups": []
+    },
+    {
+      "name": "bilibili_3",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/bilibili_3.png",
+      "groups": []
+    },
+    {
+      "name": "bilibili_4",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/bilibili_4.png",
+      "groups": []
     },
     {
       "name": "claude_1",
@@ -208,11 +1725,96 @@
       ]
     },
     {
+      "name": "deezer",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/deezer.png",
+      "groups": []
+    },
+    {
+      "name": "deezer_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/deezer_1.png",
+      "groups": []
+    },
+    {
+      "name": "deezer_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/deezer_2.png",
+      "groups": []
+    },
+    {
+      "name": "discovery+",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/discovery+.png",
+      "groups": []
+    },
+    {
       "name": "douyin_1",
       "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/douyin_1.png",
       "groups": [
         "抖音"
       ]
+    },
+    {
+      "name": "encoreTVB",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/encoreTVB.png",
+      "groups": []
+    },
+    {
+      "name": "friDay",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/friDay.png",
+      "groups": []
+    },
+    {
+      "name": "fuboTV",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/fuboTV.png",
+      "groups": []
+    },
+    {
+      "name": "iCloud",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/iCloud.png",
+      "groups": []
+    },
+    {
+      "name": "iQIYI&bilibili",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/iQIYI&bilibili.png",
+      "groups": []
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/iQIYI.png",
+      "groups": []
+    },
+    {
+      "name": "iQIYI_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/iQIYI_1.png",
+      "groups": []
+    },
+    {
+      "name": "myTV_SUPER",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/myTV_SUPER.png",
+      "groups": []
+    },
+    {
+      "name": "niconico",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/niconico.png",
+      "groups": []
+    },
+    {
+      "name": "niconico_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/niconico_1.png",
+      "groups": []
+    },
+    {
+      "name": "niconico_2",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/niconico_2.png",
+      "groups": []
+    },
+    {
+      "name": "nowe",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/nowe.png",
+      "groups": []
+    },
+    {
+      "name": "ssLinks",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ssLinks.png",
+      "groups": []
     }
   ]
 }
