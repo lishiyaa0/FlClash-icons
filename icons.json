@@ -1,0 +1,218 @@
+{
+  "name": "FlClash 图标库",
+  "description": "个人 FlClash / Mihomo 策略组图标合集，共 29 个图标；来源 Qure 与 bgpeer，详见仓库 README。",
+  "icons": [
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/AI.png",
+      "groups": [
+        "Gemini"
+      ]
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Apple.png",
+      "groups": [
+        "苹果服务"
+      ]
+    },
+    {
+      "name": "Auto",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Auto.png",
+      "groups": [
+        "自动选择"
+      ]
+    },
+    {
+      "name": "Available",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Available.png",
+      "groups": [
+        "全部节点"
+      ]
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/ChatGPT.png",
+      "groups": [
+        "ChatGPT"
+      ]
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Discord.png",
+      "groups": [
+        "Discord"
+      ]
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Emby.png",
+      "groups": [
+        "Emby"
+      ]
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Final.png",
+      "groups": [
+        "兜底"
+      ]
+    },
+    {
+      "name": "Game",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Game.png",
+      "groups": [
+        "国际游戏"
+      ]
+    },
+    {
+      "name": "Germany",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Germany.png",
+      "groups": [
+        "德国",
+        "德国自动"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/GitHub.png",
+      "groups": [
+        "Github"
+      ]
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Google.png",
+      "groups": [
+        "Google"
+      ]
+    },
+    {
+      "name": "Hong_Kong",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Hong_Kong.png",
+      "groups": [
+        "香港",
+        "香港自动"
+      ]
+    },
+    {
+      "name": "Japan",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Japan.png",
+      "groups": [
+        "日本",
+        "日本自动"
+      ]
+    },
+    {
+      "name": "Korea",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Korea.png",
+      "groups": [
+        "韩国",
+        "韩国自动"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Microsoft.png",
+      "groups": [
+        "微软服务"
+      ]
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Netflix.png",
+      "groups": [
+        "NETFLIX"
+      ]
+    },
+    {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Singapore.png",
+      "groups": [
+        "新加坡",
+        "新加坡自动"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Spotify.png",
+      "groups": [
+        "Spotify"
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Taiwan.png",
+      "groups": [
+        "台湾",
+        "台湾自动"
+      ]
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/Telegram.png",
+      "groups": [
+        "Telegram"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/TikTok.png",
+      "groups": [
+        "TikTok"
+      ]
+    },
+    {
+      "name": "United_Kingdom",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/United_Kingdom.png",
+      "groups": [
+        "英国",
+        "英国自动"
+      ]
+    },
+    {
+      "name": "United_States",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/United_States.png",
+      "groups": [
+        "美国",
+        "美国自动"
+      ]
+    },
+    {
+      "name": "World_Map",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/World_Map.png",
+      "groups": [
+        "其它地区",
+        "其它地区自动"
+      ]
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/X.png",
+      "groups": [
+        "Twitter"
+      ]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/YouTube.png",
+      "groups": [
+        "YouTube"
+      ]
+    },
+    {
+      "name": "claude_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/claude_1.png",
+      "groups": [
+        "Claude"
+      ]
+    },
+    {
+      "name": "douyin_1",
+      "url": "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/color/douyin_1.png",
+      "groups": [
+        "抖音"
+      ]
+    }
+  ]
+}
