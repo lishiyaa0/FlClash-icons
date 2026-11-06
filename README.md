@@ -41,6 +41,30 @@ https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/icons.json
 
 `icons.json` 列出全部图标的名称、所属图标集、直链，以及本配置中正在使用的策略组。
 
+## 个人分类图标集
+
+以下 21 个目录来自 [fancha0/my-icons](https://github.com/fancha0/my-icons)，已统一压缩到 ≤256px（体积由 176 MB 降至 45 MB）：
+
+| 目录 | 数量 | 内容 | 目录 | 数量 | 内容 |
+|---|---|---|---|---|---|
+| `proxy/` | 223 | 代理软件 | `liumeiti/` | 214 | 流媒体 |
+| `shejiao/` | 101 | 社交 | `ruanjian/` | 176 | 软件 |
+| `guoqi/` | 316 | 国旗 | `emby/` | 45 | Emby |
+| `youxi/` | 35 | 游戏 | `jichang/` | 30 | 机场 |
+| `jinrong/` | 25 | 金融 | `gouwu/` | 18 | 购物 |
+| `ai/` | 17 | AI 服务 | `sousuo/` | 19 | 搜索 |
+| `xinwen/` | 15 | 新闻 | `youjian/` | 5 | 邮件 |
+| `yinyue/` | 3 | 音乐 | `NAS/` | 3 | NAS |
+| `tiezhi/` | 534 | 贴纸 | `katong/` | 188 | 卡通 |
+| `shenqibaobei/` | 118 | 神奇宝贝 | `dog/` | 31 | 萌宠 |
+| `dibiao/` | 46 | 地标 | | | |
+
+用法同其他目录：
+
+```yaml
+icon: "https://raw.githubusercontent.com/lishiyaa0/FlClash-icons/main/proxy/某图标.png"
+```
+
 ## 致谢与许可
 
 图标版权归各原作者所有。Oasisic-Icons 为 MIT 许可；Qure、离歌图标包、mihomo-icons 未声明开源许可，本仓库仅作个人配置使用，请勿商用。
